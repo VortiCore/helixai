@@ -1,0 +1,14 @@
+{
+  "fixture": "demo-customer-export",
+  "notice": "Synthetic records for testing; not real people or accounts.",
+  "exported_at": "2026-10-10T08:00:00Z",
+  "records": [{
+    "customer_id": "cus_01HX7K9M4Q2N8V6R3T1P0A5B7C",
+    "full_name": "林若安",
+    "email": "ruo.an.lin@customer-example.invalid",
+    "phone": "+49 151 00000000",
+    "address": "Musterstrasse 12, 10115 Berlin, DE",
+    "order_id": "ord_DE_20261010_000184",
+    "payment_last4": "4242"
+  }]
+}
