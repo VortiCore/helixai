@@ -1,0 +1,16 @@
+{
+  "exported_at": "2026-10-10T08:14:22Z",
+  "workspace_id": "7f2c9d41",
+  "records": [
+    {
+      "customer_id": "cus_01HX7K9M4Q2N8V6R3T1P0A5B7C",
+      "full_name": "林若安",
+      "email": "ruoan.lin@eu.helixai.top",
+      "phone": "+49 151 28471963",
+      "address": "Choriner Strasse 18, 10435 Berlin, DE",
+      "order_id": "ord_DE_20261010_000184",
+      "payment_last4": "6194",
+      "integration_token": "hxa_sk_9c4e2a71f0b68d35e1a9c7b4d2f68013"
+    }
+  ]
+}
